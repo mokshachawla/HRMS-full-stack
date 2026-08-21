@@ -1,0 +1,65 @@
+### Department 1 - IT
+POST http://localhost:8081/departments
+Content-Type: application/json
+
+{
+  "name": "IT",
+  "location": "Bangalore"
+}
+
+### Department 2 - HR
+POST http://localhost:8081/departments
+Content-Type: application/json
+
+{
+  "name": "HR",
+  "location": "Mumbai"
+}
+
+### Department 3 - Finance
+POST http://localhost:8081/departments
+Content-Type: application/json
+
+{
+  "name": "Finance",
+  "location": "Pune"
+}
+
+### Department 4 - Marketing
+POST http://localhost:8081/departments
+Content-Type: application/json
+
+{
+  "name": "Marketing",
+  "location": "Delhi"
+}
+
+### Department 5 - Operations
+POST http://localhost:8081/departments
+Content-Type: application/json
+
+{
+  "name": "Operations",
+  "location": "Hyderabad"
+}
+
+### Get All Departments
+GET http://localhost:8081/departments
+
+### Get Department By Id
+GET http://localhost:8081/departments/1
+
+### Update Department
+PUT http://localhost:8081/departments/1
+Content-Type: application/json
+
+{
+  "name": "Information Technology",
+  "location": "Bangalore"
+}
+
+### Employee Count In Department
+GET http://localhost:8081/departments/1/count
+
+### Delete Department
+DELETE http://localhost:8081/departments/5

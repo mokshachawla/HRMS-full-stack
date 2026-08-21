@@ -1,0 +1,357 @@
+### Employee 1
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP001",
+  "firstName": "Rahul",
+  "lastName": "Sharma",
+  "email": "rahul.sharma@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 1,
+  "salary": 75000
+}
+
+###
+
+### Employee 2
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP002",
+  "firstName": "Priya",
+  "lastName": "Patel",
+  "email": "priya.patel@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 1,
+  "salary": 80000
+}
+
+###
+
+### Employee 3
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP003",
+  "firstName": "Amit",
+  "lastName": "Verma",
+  "email": "amit.verma@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 1,
+  "salary": 85000
+}
+
+###
+
+### Employee 4
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP004",
+  "firstName": "Sneha",
+  "lastName": "Reddy",
+  "email": "sneha.reddy@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 1,
+  "salary": 78000
+}
+
+###
+
+### Employee 5
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP005",
+  "firstName": "Vikram",
+  "lastName": "Singh",
+  "email": "vikram.singh@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 2,
+  "salary": 65000
+}
+
+###
+
+### Employee 6
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP006",
+  "firstName": "Anjali",
+  "lastName": "Mehta",
+  "email": "anjali.mehta@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 2,
+  "salary": 68000
+}
+
+###
+
+### Employee 7
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP007",
+  "firstName": "Karan",
+  "lastName": "Malhotra",
+  "email": "karan.malhotra@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 2,
+  "salary": 70000
+}
+
+###
+
+### Employee 8
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP008",
+  "firstName": "Pooja",
+  "lastName": "Nair",
+  "email": "pooja.nair@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 2,
+  "salary": 72000
+}
+
+###
+
+### Employee 9
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP009",
+  "firstName": "Arjun",
+  "lastName": "Kapoor",
+  "email": "arjun.kapoor@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 3,
+  "salary": 90000
+}
+
+###
+
+### Employee 10
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP010",
+  "firstName": "Neha",
+  "lastName": "Joshi",
+  "email": "neha.joshi@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 3,
+  "salary": 92000
+}
+
+###
+
+### Employee 11
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP011",
+  "firstName": "Rohit",
+  "lastName": "Kulkarni",
+  "email": "rohit.kulkarni@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 3,
+  "salary": 95000
+}
+
+###
+
+### Employee 12
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP012",
+  "firstName": "Meera",
+  "lastName": "Iyer",
+  "email": "meera.iyer@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 3,
+  "salary": 88000
+}
+
+###
+
+### Employee 13
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP013",
+  "firstName": "Sanjay",
+  "lastName": "Gupta",
+  "email": "sanjay.gupta@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 4,
+  "salary": 76000
+}
+
+###
+
+### Employee 14
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP014",
+  "firstName": "Riya",
+  "lastName": "Agarwal",
+  "email": "riya.agarwal@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 4,
+  "salary": 79000
+}
+
+###
+
+### Employee 15
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP015",
+  "firstName": "Akash",
+  "lastName": "Yadav",
+  "email": "akash.yadav@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 4,
+  "salary": 81000
+}
+
+###
+
+### Employee 16
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP016",
+  "firstName": "Divya",
+  "lastName": "Menon",
+  "email": "divya.menon@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 4,
+  "salary": 77000
+}
+
+###
+
+### Employee 17
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP017",
+  "firstName": "Nitin",
+  "lastName": "Chauhan",
+  "email": "nitin.chauhan@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 5,
+  "salary": 83000
+}
+
+###
+
+### Employee 18
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP018",
+  "firstName": "Kavya",
+  "lastName": "Bhat",
+  "email": "kavya.bhat@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 5,
+  "salary": 82000
+}
+
+###
+
+### Employee 19
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP019",
+  "firstName": "Manoj",
+  "lastName": "Desai",
+  "email": "manoj.desai@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 5,
+  "salary": 86000
+}
+
+###
+
+### Employee 20
+POST http://localhost:8081/employees
+Content-Type: application/json
+
+{
+  "employeeCode": "EMP020",
+  "firstName": "Shreya",
+  "lastName": "Mishra",
+  "email": "shreya.mishra@hrms.com",
+  "password": "Password@123",
+  "role": "EMPLOYEE",
+  "departmentId": 5,
+  "salary": 84000
+}
+
+###
+
+### Get All Employees
+GET http://localhost:8081/employees
+
+###
+
+### Get Employee By ID
+GET http://localhost:8081/employees/1
+
+###
+
+### Dashboard Statistics
+GET http://localhost:8081/dashboard/stats
+
+###
+
+### Logged-in User Profile
+GET http://localhost:8081/profile/me
